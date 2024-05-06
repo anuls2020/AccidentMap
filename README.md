@@ -6,4 +6,4 @@
 - run the code
   - python main.py
 
-![img.png](img.png)
+![img_1.png](img_1.png)
