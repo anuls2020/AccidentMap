@@ -7,3 +7,7 @@
   - python main.py
 
 ![img_1.png](img_1.png)
+
+After using the flask API
+
+![img.png](img.png)
